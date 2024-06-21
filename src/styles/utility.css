@@ -14,3 +14,21 @@
 .gap-16 {
   gap: 16px;
 }
+
+/* Main */
+
+/* Auto layout */
+/* display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: flex-start;
+padding: 72px 24px 24px;
+gap: 8px;
+
+position: absolute;
+height: 208px;
+left: 0px;
+right: 0px;
+bottom: 0px;
+
+background: linear-gradient(180deg, rgba(2, 6, 23, 0) 0%, #020617 100%); */
