@@ -15,20 +15,18 @@
   gap: 16px;
 }
 
-/* Main */
+.text-2xl {
+  font: var(--h1);
+}
 
-/* Auto layout */
-/* display: flex;
-flex-direction: column;
-justify-content: flex-end;
-align-items: flex-start;
-padding: 72px 24px 24px;
-gap: 8px;
+.text-xl {
+  font: var(--h2);
+}
 
-position: absolute;
-height: 208px;
-left: 0px;
-right: 0px;
-bottom: 0px;
+.text-lg {
+  font: var(--h3);
+}
 
-background: linear-gradient(180deg, rgba(2, 6, 23, 0) 0%, #020617 100%); */
+.text-sm {
+  font: var(--text-sm);
+}
