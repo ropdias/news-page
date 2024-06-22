@@ -48,7 +48,7 @@ section header {
         padding: 12px;
       }
 
-      h2 {
+      h1, h3 {
         margin-top: 8px;
       }
     }
